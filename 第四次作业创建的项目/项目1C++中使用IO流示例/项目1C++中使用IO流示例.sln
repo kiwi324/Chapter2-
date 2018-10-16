@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "项目1C++中使用IO流示例", "项目1C++中使用IO流示例\项目1C++中使用IO流示例.vcxproj", "{37A41855-0105-450A-B1EC-06CE38D3A8FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37A41855-0105-450A-B1EC-06CE38D3A8FB}.Debug|x64.ActiveCfg = Debug|x64
+		{37A41855-0105-450A-B1EC-06CE38D3A8FB}.Debug|x64.Build.0 = Debug|x64
+		{37A41855-0105-450A-B1EC-06CE38D3A8FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{37A41855-0105-450A-B1EC-06CE38D3A8FB}.Debug|x86.Build.0 = Debug|Win32
+		{37A41855-0105-450A-B1EC-06CE38D3A8FB}.Release|x64.ActiveCfg = Release|x64
+		{37A41855-0105-450A-B1EC-06CE38D3A8FB}.Release|x64.Build.0 = Release|x64
+		{37A41855-0105-450A-B1EC-06CE38D3A8FB}.Release|x86.ActiveCfg = Release|Win32
+		{37A41855-0105-450A-B1EC-06CE38D3A8FB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9055176F-8A19-4EB6-AFAD-466B7B578FD5}
+	EndGlobalSection
+EndGlobal
